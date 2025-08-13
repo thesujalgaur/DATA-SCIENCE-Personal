@@ -1,3 +1,1 @@
-hello
-kaise ho
-Aaj aapne kya kiya
+{'name': 'sujal', 'class': 'Fourth', 'age': 22}
